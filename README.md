@@ -24,3 +24,4 @@ Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)    |  ![image](https://github.com/user-attachments/assets/118fdc9b-586c-4a7d-9974-6ac60e2bd048)  | ![image](https://github.com/user-attachments/assets/4616c6d9-0bc7-49cc-894c-460ccde7a858)
 
+Huge thanks to HackClub for doing this project https://blueprint.hackclub.com/
